@@ -1,4 +1,4 @@
-let url_base = 'http://servicodados.ibge.gov.br/api/v3/noticias/?qtd=10'
+let url_base = 'https://servicodados.ibge.gov.br/api/v3/noticias/?qtd=10'
 
 function click_button(){
     const coracao = document.querySelector("#icone");

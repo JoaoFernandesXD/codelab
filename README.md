@@ -6,7 +6,7 @@ Bem-vindo ao repositório de Desafios Frontend! Este projeto open-source é uma 
 
 | Status | Desafio | Nome | Deploy | Código-fonte |
 |--------|---------|------|--------|--------------|
-| ✅ | 01 | Blog | [Visitar](link_do_deploy) | [Acessar](link_do_codigo) |
+| ✅ | 01 | Blog | [Visitar](https://joaofernandesxd.github.io/codelab/desafio1-blog/) | [Acessar](https://github.com/JoaoFernandesXD/codelab/tree/main/desafio1-blog) |
 | ... | ... | ... | ... | ... |
 
 ## Capturas de tela 📸

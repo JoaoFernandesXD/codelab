@@ -11,7 +11,7 @@ Bem-vindo ao repositório de Desafios Frontend! Este projeto open-source é uma 
 
 ## Capturas de tela 📸
 
-![Desafio 01](screenshot_desafio_01.png)
+![Desafio 01]([screenshot_desafio_01.png)](https://github.com/JoaoFernandesXD/codelab/assets/24917622/4d214dd5-8029-4884-88ec-3b7cd6e33c52)
 *Descrição do desafio 01*
 
 
